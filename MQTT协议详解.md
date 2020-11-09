@@ -41,7 +41,7 @@ MQTT传输的消息分为：主题（Topic）和负载（payload）
 
 ## 协议原理
 - 实现方式
-![MQTT协议详解.md](MQTT协议详解/1.jpg)
+![MQTT协议详解.md](./MQTT协议详解/1.jpg)
 MQTT协议具有三种身份：发布者（Publish)、代理（Broker)（服务器）、订阅者（Subscribe）
 其中，消息的发布者和订阅者都是客户端，消息代理是服务器。消息的发布者可以同时是订阅者
 
